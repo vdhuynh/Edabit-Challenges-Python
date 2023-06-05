@@ -1,5 +1,0 @@
-'''All you have to do is type return "hello edabit.com"'''
-
-def hello():
-	return "hello edabit.com" # return is used for functions to store for later use when called
-	
